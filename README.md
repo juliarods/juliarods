@@ -5,10 +5,31 @@
 
 Sou apaixonada por tecnologia e aprendizado contínuo. Atualmente focada em desenvolvimento web, criando interfaces modernas e responsivas. Busco oportunidades para aplicar meus conhecimentos em projetos reais e crescer como profissional.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliarods)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliasouzatrabalho@gmail.com)
-[![GitHub stars](https://img.shields.io/github/stars/juliarods?style=for-the-badge&logo=github&color=whitw)](https://github.com/juliarods?tab=repositories)
+<br/>
 
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="left">
+
+  <a href="https://github.com/juliarods?tab=repositories&sort=stargazers">
+    <img alt="total stars" 
+      title="Total de estrelas no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/juliarods?color=55960c&locale=pt-br&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/juliarods?tab=followers">
+    <img alt="followers" 
+      title="Follow me on Github"
+      src="https://custom-icon-badges.demolab.com/github/followers/juliarods?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/juliarods/Simple-View-Counter">
+    <img alt="views"
+      title="GitHub views"
+      src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
+  </a>
+</p>
+
+<br/>
+
+---
 
 ###  🛠️ Tecnologias 
 <p align="left">
@@ -31,3 +52,7 @@ Sou apaixonada por tecnologia e aprendizado contínuo. Atualmente focada em dese
 #### 📖 O que estou aprendendo agora
 - HTML e CSS
 - Entendendo algortimos
+
+
+
+
