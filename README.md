@@ -75,13 +75,13 @@ Me chamo Júlia Rodrigues, tenho 20 anos e sou natural de São Paulo. Atualmente
      href="https://github.com/anuraghazra/github-readme-stats">
      <img 
        alt="DenverCoder1's Github Status" 
-       src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=juliarods&locate=pt-br&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+       src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=juliarods&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
        height="192px"/>
    </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
       alt="DenverCoder1's Top Languages" 
-     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juliarods&langs_count=8&layout=compact&theme=react&locate=pt-br&custom_title=Top%20idiomas&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juliarods&langs_count=8&layout=compact&theme=react&locale=pt-br&custom_title=Top%20idiomas&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
     height="192px"/>
      </a>
   <br/>
