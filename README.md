@@ -43,11 +43,10 @@ Sou apaixonada por tecnologia e aprendizado contínuo. Atualmente focada em dese
 ### 📊 Estatísticas
 ![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=juliarods&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=juliarods&langs_count=8&layout=compact&theme=react&locale=pt-br&custom_title=Top%20idiomas&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=juliarods&locale=pt_BR)](https://git.io/streak-stats)
 
 
-
----
 
 #### 📖 O que estou aprendendo agora
 - HTML e CSS
